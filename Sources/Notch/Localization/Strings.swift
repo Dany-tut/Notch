@@ -1144,7 +1144,7 @@ enum L10n {
         .settingsAboutHint: "Панель у верхнего края экрана.",
         .settingsTabLicense: "Лицензия",
         .proLockedTitle: "Этот модуль входит в Notch Pro",
-        .proLockedHint: "Перевод, ИИ-чат и телесуфлёр открываются один раз — за $14.99. Без подписки.",
+        .proLockedHint: "Перевод, ИИ-чат и телесуфлёр открываются один раз — за 990 ₽. Без подписки.",
         .proBuy: "Получить Notch Pro",
         .proHaveKey: "У меня есть ключ",
         .licenseStatus: "Состояние",
